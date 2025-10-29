@@ -1,3 +1,8 @@
+**Forked by Jorge Luis de la Torre (jorgedlt) for experimentation and learning Docker/DevOps.**  
+**Original repository:** https://github.com/docker/compose
+
+---
+
 # Table of Contents
 - [Docker Compose v2](#docker-compose-v2)
 - [Where to get Docker Compose](#where-to-get-docker-compose)
